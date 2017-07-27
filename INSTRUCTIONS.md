@@ -16,6 +16,7 @@ In this project you will create a song playlist! Using HTML, CSS, JQuery, and Ja
 * Add links to working url and project source code to your portfolio with an image and short description of the project
 
 ## Projects Extensions:
+* Add a tool tip with additional information about the song. Length, year published, etc
 * Each song includes an icon that deletes the song from the playlist
 * A "New" button opens a form to add a new song to the playlist
 
