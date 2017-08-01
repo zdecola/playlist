@@ -25,6 +25,7 @@ In this project you will create a song playlist! Using HTML, CSS, JQuery, and Ja
 * [How Jquery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
 * [JQuery Events](http://api.jquery.com/category/events/)
 * [JSON](https://www.w3schools.com/js/js_json.asp)
+* [Bootstrap](http://getbootstrap.com/getting-started/)
 
 ***
 ## Instructions
