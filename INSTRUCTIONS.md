@@ -30,6 +30,7 @@ In this project you will create a song playlist! Using HTML, CSS, JQuery, and Ja
 * A "New" button opens a form to add a new song to the playlist
 
 ## References/Tools
+* [Advanced Reference Table]()
 * [Script Tag](http://javascript.crockford.com/script.html)
 * [How Jquery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
 * [JQuery Events](http://api.jquery.com/category/events/)
