@@ -2,7 +2,7 @@
 
 | # classes|Example|Planning|Assesment|
 |:--:|:--:|:--:|:--:|
-| 3 |[Playlist](https://github.com/ScriptEdcurriculum/advanced_playlist_solution)|[Planning Document](https://docs.google.com/document/d/1JBjicVmEc6TKg-6Mz4ET407vgrdO0nd6vUjBUftkJ4M/edit)|[Rubric](https://docs.google.com/document/d/1BlL6dLk1Yzt_QB9pKoHh9si7VRjGPXwAc5NuZP_y0DU/edit)|
+| 3 |[Playlist](https://ScriptEdcurriculum.github.io//advanced_playlist_solution/)|[Planning Document](https://docs.google.com/document/d/1JBjicVmEc6TKg-6Mz4ET407vgrdO0nd6vUjBUftkJ4M/edit)|[Rubric](https://docs.google.com/document/d/1BlL6dLk1Yzt_QB9pKoHh9si7VRjGPXwAc5NuZP_y0DU/edit)|
 
 ## Overview:
 In this project you will create a song playlist! Using HTML, CSS, JQuery, and Javascript you will use JSON data to display a list of songs to a webpage. You will have three class session to complete this poject.
