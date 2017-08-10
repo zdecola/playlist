@@ -25,14 +25,15 @@ var myPlayList = [
 		]
 	},
 	{
-		"title":"Pony",
-		"artist":"Genuwine",
-		"length":"5:25",
-		"release-date":"August 20, 1996",
-		"mp3-url":"https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G",
-		"image-url":"https://upload.wikimedia.org/wikipedia/en/3/37/Ginuwine_-_Pony.JPG",
+		"title":"Sir Duke",
+		"artist":"Stevie Wonder",
+		"length":"3:52",
+		"release-date":"September 28, 1976",
+		"mp3-url":"https://open.spotify.com/track/2udw7RDkldLFIPG9WYdVtT",
+		"image-url":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Songs_in_the_key_of_life.jpg/220px-Songs_in_the_key_of_life.jpg",
 		"genres":[
-			"R&B"
+			"R&B",
+			"Funk",
 		]
 	},
 	{
