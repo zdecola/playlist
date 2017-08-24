@@ -1,8 +1,8 @@
 # Playlist Project
 
-| # classes|Example|Planning|Assesment|
+| # classes|Example Project|Project Planning|Rubric|
 |:--:|:--:|:--:|:--:|
-| 3 |[Playlist](https://ScriptEdcurriculum.github.io//advanced_playlist_solution/)|[Planning Document](https://docs.google.com/document/d/1JBjicVmEc6TKg-6Mz4ET407vgrdO0nd6vUjBUftkJ4M)|[Rubric](https://drive.google.com/open?id=1sQxfNhRwnK7k08VMeSFkncODpbuCLDdk9Actey5YDVo)|
+| 3 |[05 EP](https://ScriptEdcurriculum.github.io//advanced_playlist_solution/)|[05 PP](https://docs.google.com/document/d/1JBjicVmEc6TKg-6Mz4ET407vgrdO0nd6vUjBUftkJ4M)|[05 RB](https://drive.google.com/open?id=1sQxfNhRwnK7k08VMeSFkncODpbuCLDdk9Actey5YDVo)|
 
 ## Overview:
 In this unit, coders will create a Playlist. The Playlist will display a list of information about different songs with images and links to play the songs. To create this project, coders will create an array of songs objects, use a for loop to iterate over the array of object, and display data to the screen using jQuery.
