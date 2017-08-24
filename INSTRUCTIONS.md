@@ -5,7 +5,7 @@
 | 3 |[Playlist](https://ScriptEdcurriculum.github.io//advanced_playlist_solution/)|[Planning Document](https://docs.google.com/document/d/1JBjicVmEc6TKg-6Mz4ET407vgrdO0nd6vUjBUftkJ4M)|[Rubric](https://drive.google.com/open?id=1sQxfNhRwnK7k08VMeSFkncODpbuCLDdk9Actey5YDVo)|
 
 ## Overview:
-In this unit coders will create a Playlist. The Playlist will display a list of information about different songs with images and links to play the songs. In order to create this project, coders will create an array of songs objects, use a for loop to iterate over the array of object, and display data to the screen using jQuery.
+In this unit, coders will create a Playlist. The Playlist will display a list of information about different songs with images and links to play the songs. To create this project, coders will create an array of songs objects, use a for loop to iterate over the array of object, and display data to the screen using jQuery.
 
 ## Objectives
 1.1) plan and wireframe a project <br>
