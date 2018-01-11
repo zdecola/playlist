@@ -1,4 +1,7 @@
 // Class 2:
+// Use jQuery to display a single song object to the screen
+
+// Class 2:
 // Create a loop that iterates through the myPlaylist variable
 // Use jQuery and string concatenation to display data for multiple songs on the page
 
@@ -13,6 +16,12 @@
 
 
 // DOCUMENT READY FUNCTION
+$( document ).ready(function() {
+  
+
+
+
+});
 
 
 
