@@ -1,12 +1,12 @@
 // Class 2:
-// Use jQuery to display a single song object to the screen
+// Complete displayList() to show a single song in the list
 
 // Class 2:
-// Create a loop that iterates through the myPlaylist variable
-// Use jQuery and string concatenation to display data for multiple songs on the page
+// Complete displayList() to show all the songs in the list
+// Complete clearList() funcion
 
 // Class 3:
-// Use input boxes to add songs to the playlist array. 
+// Use input boxes to push songs to the playlist array. 
 
 
 
@@ -23,6 +23,20 @@ $( document ).ready(function() {
 
 });
 
+function displayList(){
 
 
+  
+}
 
+function clearList(){
+  
+  
+  
+}
+
+function addSong(){
+ 
+  
+  
+}
