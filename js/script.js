@@ -6,7 +6,7 @@
 // Complete clearList() funcion
 
 // Class 3:
-// Use input boxes to push songs to the playlist array. 
+// Complete the addSong function to take an input from input boxes and push a new song to the playlist array. 
 
 
 
