@@ -1,3 +1,6 @@
+// quick fix for Cloud9 warning:
+/* global $ */
+
 // Class 2:
 // Complete displayList() to show a single song in the list
 
